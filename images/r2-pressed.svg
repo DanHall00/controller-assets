@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="76" height="51" viewBox="0 0 76 51">
-
-  <g transform="translate(76 0) scale(-1 1)">
-    <path d="M8 8 C13 3, 24 1, 38 1 C52 1, 63 3, 68 8
-             C72 14, 74 24, 74 38
-             C74 43, 72 47, 68 49
-             H8
-             C4 47, 2 43, 2 38
-             C2 24, 4 14, 8 8 Z"
-          fill="#f7f7f7"/>
-    <path d="M11 9 C16 5, 25 4, 38 4 C51 4, 60 5, 65 9
-             C68 14, 70 23, 70 36
-             C70 40, 68 43, 65 45
-             H11
-             C8 43, 6 40, 6 36
-             C6 23, 8 14, 11 9 Z"
-          fill="#78cbd3"/>
-  </g>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="52" viewBox="0 0 72 52">
+  <path d="M63 2 H24 C14 2 8 6 6 14 L2 41
+           C1 47 5 50 11 50 H62
+           C68 50 71 47 70 41 L66 14
+           C65 8 64 5 63 2 Z"
+        fill="#79cbd3" stroke="#ffffff" stroke-width="2.5"/>
 </svg>
